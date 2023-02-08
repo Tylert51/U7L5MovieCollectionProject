@@ -380,8 +380,6 @@ public class MovieCollection
 
         System.out.println("\n ** Press Enter to Return to Main Menu **");
         scanner.nextLine();
-
-
     }
 
     private void listHighestRevenue() {
